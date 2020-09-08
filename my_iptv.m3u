@@ -207,13 +207,13 @@ http://nandansyst.com/hls/nandan.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BANGLA", News 24
 http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 [BD]" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA", NEWS 24 [BD]
-http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+http://103.205.133.14/hls/news24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NOKSHI IPTV [BD]" tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="BANGLA", NOKSHI IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/live-orgin/nakshitv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NRB IPTV" tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="BANGLA", NRB IPTV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/54.m3u8
+http://103.205.133.14/hls/ntv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
 http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA", Orange Bangla [IN]
@@ -235,7 +235,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA", RTV
 http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV [BD]" tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA", RTV [BD]
-http://robi.iptv.digijadoo.net/live/rtv/chunks.m3u8
+http://103.205.133.14/hls/rtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="BANGLA", RTV Music
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="BANGLA", Ruposhi Bangla
