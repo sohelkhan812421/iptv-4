@@ -157,7 +157,8 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BANGLA", JAMUNA TV
 http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV [BD]" tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BANGLA", JAMUNA TV [BD]
-http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+http://103.205.133.14/hls/jamunatv.m3u8
 #EXTINF: -1 tvg-name="Jhankar TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="BANGLA", Jhankar TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="JONMOBHUMI IPTV [BD]" tvg-logo="https://i.imgur.com/aVwQSXn.jpg" group-title="BANGLA", JONMOBHUMI IPTV [BD]
@@ -185,7 +186,8 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV [BD]" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA", MOHONA TV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV [BD]" tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA", MOHONA TV [BD]
-http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+http://103.205.133.14/hls/mohonatv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA", Movie Bangla TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Music Fatafati [IN]" tvg-logo="https://i.imgur.com/l6BlALg.jpg" group-title="BANGLA", Music Fatafati [IN]
@@ -193,7 +195,8 @@ http://robi.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY CINEMA IPTV [BD]" tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BANGLA", MY CINEMA IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/live-orgin/mycinema-up2.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA", MY TV [BD]
-http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+http://103.205.133.14/hls/mytv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA", MY TV [BD]
 http://45.249.187.238:8081/hls/new5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA", Nagorik TV
@@ -245,7 +248,7 @@ http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV [BD]
 http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV HD [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV HD [BD]
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/15.m3u8
+http://103.205.133.14/hls/satv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla [IN]" tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA", Sangeet Bangla [IN]
 http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SangeetBangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="BANGLA", SangeetBangla
