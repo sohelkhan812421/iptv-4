@@ -257,7 +257,8 @@ http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sobuj Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/A7FuCH7.png" group-title="BANGLA", Sobuj Bangla IPTV [BD]
 http://45.77.242.60/live/sobujbangla/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
-http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+http://103.205.133.44:1935/live/somoy/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
