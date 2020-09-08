@@ -69,7 +69,7 @@ http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA", BTV World
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV WORLD [BD]" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA", BTV WORLD [BD]
-http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BANGLA", Channel 24
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
@@ -103,13 +103,13 @@ http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/7.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS HD [BD]" tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA", DBC NEWS HD [BD]
 http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Bangla [IN]" tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA", DD Bangla [IN]
-http://robi.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
+http://103.205.133.14/hls/ddbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA", Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD [BD]" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA", DEEPTO TV HD [BD]
 http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/9.m3u8
+http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
 http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deshe Bideshe [BD]" tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="BANGLA", Deshe Bideshe [BD]
@@ -139,9 +139,9 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
 http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/58.m3u8
+http://103.205.133.14/hls/gaanbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV [BD]
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.205.133.14/hls/gtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV HD [BD]
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA", Independent
