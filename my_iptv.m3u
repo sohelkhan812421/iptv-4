@@ -20,7 +20,7 @@ http://45.249.187.238:8081/hls/new4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA", ATN Bangla
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [BD]" tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA", ATN BANGLA [BD]
-http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.205.133.14/hls/atnbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN BANGLA [UK]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x91288" group-title="BANGLA", ATN BANGLA [UK]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN Islam" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BANGLA", ATN Islam
