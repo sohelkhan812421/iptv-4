@@ -109,7 +109,7 @@ http://103.205.133.14/hls/ddbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA", Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD [BD]" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA", DEEPTO TV HD [BD]
-http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://103.205.133.14/hls/deeptotv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="BANGLA", Desh TV
@@ -135,7 +135,7 @@ http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV [BD]" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA", EKUSHEY TV [BD]
-http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+http://103.205.133.14/hls/ekushey.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Enter10 Bangla" group-title="BANGLA", Enter10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
@@ -204,7 +204,7 @@ http://45.249.187.238:8081/hls/new5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA", Nagorik TV
 http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA", NAGORIK TV [BD]
-http://robi.iptv.digijadoo.net:80/live/nagorik_tv/chunks.m3u8
+http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nan IPTV [BD]" tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="BANGLA", Nan IPTV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BANGLA", NANDAN IPTV [BD]
@@ -254,7 +254,7 @@ http://103.205.133.14/hls/satv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla [IN]" tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA", Sangeet Bangla [IN]
 http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SangeetBangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="BANGLA", SangeetBangla
-http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.205.133.14/hls/sangeetbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV [BD]" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA", Sangsad TV [BD]
 http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shopno IPTV [BD]" tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="BANGLA", Shopno IPTV [BD]
