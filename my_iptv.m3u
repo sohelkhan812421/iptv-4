@@ -76,11 +76,11 @@ http://103.205.133.14/hls/channel24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
 http://103.205.133.44:1935/live/channel24/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 [BD]
-http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 HD [BD]
 http://45.249.187.238:8081/hls/live3.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA", CHANNEL I HD [BD]
-http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL I HD [BD]" tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA", CHANNEL I HD [BD]
 http://45.249.187.238:8081/hls/live7.m3u8
 #EXTINF: -1 tvg-name="Channel S (BD)" tvg-logo="https://dl.dropbox.com/s/59vk3mdm4cl1ojc/channel_s_bd.png" group-title="BANGLA", Channel S (BD)
