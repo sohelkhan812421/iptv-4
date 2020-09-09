@@ -74,7 +74,7 @@ http://103.205.133.14/hls/btvworld.m3u8
 
 http://103.205.133.14/hls/channel24.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24 [BD]" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA", CHANNEL 24 [BD]
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://103.205.133.44:1935/live/channel24/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 [BD]
 http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9 HD [BD]" tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA", CHANNEL 9 HD [BD]
