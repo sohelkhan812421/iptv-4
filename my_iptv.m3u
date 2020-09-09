@@ -435,7 +435,7 @@ http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="HINDI ENT.", Star Bharat
 http://103.135.208.14:80/ibox/bd/50
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
-http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
@@ -469,7 +469,7 @@ http://185.8.176.227:25461/strtester/ap8s9ndf709a8/23
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="HINDI ENT.", Zee TV HD
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://ccn.anytv.live:8080/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
