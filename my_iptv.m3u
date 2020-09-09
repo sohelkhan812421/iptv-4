@@ -63,7 +63,7 @@ http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV [BD]" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA", BOISHAKHI TV [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="BANGLA", BTV
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/btv.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV [BD]" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA", BTV [BD]
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA", BTV World
@@ -105,7 +105,7 @@ http://103.205.133.14/hls/dbcnews.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS HD [BD]" tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA", DBC NEWS HD [BD]
 http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DD Bangla [IN]" tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA", DD Bangla [IN]
-http://103.205.133.14/hls/ddbangla.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA", Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DEEPTO TV HD [BD]" tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA", DEEPTO TV HD [BD]
@@ -127,9 +127,9 @@ http://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="BANGLA", Duronto TV
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Duronto TV" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="BANGLA", Duronto TV
-http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV [BD]
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/11.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="EKATTOR TV HD [BD]" tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA", EKATTOR TV HD [BD]
 http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
