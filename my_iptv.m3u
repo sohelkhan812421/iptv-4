@@ -273,7 +273,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
-http://robi.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD [IN]" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsha HD [IN]
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63525
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA", Star Jalsha Movies
@@ -307,7 +307,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54020
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla SD [IN]" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla SD [IN]
 http://103.205.133.44:1935/live/zeebangla/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/34.m3u8
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/74.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
