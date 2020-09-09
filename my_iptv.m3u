@@ -220,7 +220,7 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NTV [BD]" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV [BD]
-http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA", Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PAN VISION IPTV [BD]" tvg-logo="https://i.imgur.com/kdez6Hz.jpg" group-title="BANGLA", PAN VISION IPTV [BD]
