@@ -143,13 +143,13 @@ http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BANGLA", Gaan Bangla
 http://103.205.133.14/hls/gaanbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV [BD]
-http://103.205.133.14/hls/gtv.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD [BD]" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA", GAZI TV HD [BD]
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BANGLA", Independent
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV [BD]" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA", INDEPENDENT TV [BD]
-http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2016/11/iqra001.jpg" group-title="BANGLA", Iqra Bangla TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ITV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="BANGLA", ITV [BD]
@@ -178,7 +178,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV [BD]
 http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/51.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
 http://45.249.187.238:8081/hls/new9.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Magic Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/vJ9h5AW.jpg" group-title="BANGLA", Magic Bangla IPTV [BD]
@@ -202,7 +202,7 @@ http://103.205.133.14/hls/mytv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MY TV [BD]" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA", MY TV [BD]
 http://45.249.187.238:8081/hls/new5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA", Nagorik TV
-http://45.249.187.238:8081/hls/new16.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAGORIK TV [BD]" tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BANGLA", NAGORIK TV [BD]
 http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nan IPTV [BD]" tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="BANGLA", Nan IPTV [BD]
@@ -248,7 +248,7 @@ http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/95.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla [IN]" tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA", Ruposhi Bangla [IN]
 http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV [BD]
-http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+http://robi.ihttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SA TV HD [BD]" tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA", SA TV HD [BD]
 http://103.205.133.14/hls/satv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla [IN]" tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BANGLA", Sangeet Bangla [IN]
