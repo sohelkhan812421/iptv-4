@@ -946,7 +946,7 @@ http://43.230.123.21:8080/live/star-movies.m3u8
 #EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54045
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD [IN]" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="ENGLISH MOVIES", Star Movies HD [IN]
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="ENGLISH MOVIES", Star Movies Select HD
