@@ -1203,7 +1203,7 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ten Sports PK" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS", Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Willow HD" tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="SPORTS", Willow HD
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/70.m3u8
+http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS", WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET
