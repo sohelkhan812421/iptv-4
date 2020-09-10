@@ -972,7 +972,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AniPlus" tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS", AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Cbeebies" tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS", BBC Cbeebies
-http://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Cbeebies" tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="KIDS", BBC Cbeebies
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS", CARTOON NETWORK
@@ -992,7 +992,7 @@ http://202.163.117.6:9981/stream/channelid/1357890196
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS", MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KIDS", Nick
-http://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KIDS", Nick
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NICK Bangla" tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS", NICK Bangla
@@ -1020,7 +1020,7 @@ http://103.135.208.14:80/ibox/bd/58
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="https://i.imgur.com/msoABHA.jpg" group-title="KIDS", Sony Yay
-http://stariptv.top:2086/00/00/19825
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SPACETOON KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS", SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TCT Kids" tvg-logo="https://i.imgur.com/QQkTmfT.jpg" group-title="KIDS", TCT Kids
