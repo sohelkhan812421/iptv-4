@@ -472,7 +472,7 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ZEE TV SD" tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="HINDI ENT.", ZEE TV SD
-http://ccn.anytv.live:8080/zeetv/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/OA762pM.png" group-title="PAK ENT.", Aaj Entertainment
 https://playlive.goonj.pk/aajentweb_360p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Aplus" tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="PAK ENT.", Aplus
