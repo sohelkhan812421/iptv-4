@@ -626,7 +626,7 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mini Plex" group-title="HINDI MOVIES", Mini Plex
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63572
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MOVIE PLUS" tvg-logo="https://i.imgur.com/NmelSkg.jpg" group-title="HINDI MOVIES", MOVIE PLUS
-http://103.144.200.7:8080/hls/movp/index.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movie plus" tvg-logo="https://i.imgur.com/NmelSkg.jpg" group-title="HINDI MOVIES", Movie plus
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
@@ -908,11 +908,11 @@ http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54011
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="ENGLISH MOVIES", MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES", MNX
-http://103.135.208.14:80/ibox/bd/70
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="ENGLISH MOVIES", Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="ENGLISH MOVIES", Movies Now
-http://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES", Movies Now
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="ENGLISH MOVIES", Movies Now
