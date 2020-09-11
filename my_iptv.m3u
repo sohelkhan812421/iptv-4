@@ -386,7 +386,7 @@ http://103.141.66.36/bpk-tv/10504/default/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MANORANJAN" tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="HINDI ENT.", MANORANJAN
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Manoranjan TV" tvg-logo="https://i.imgur.com/Qe37MM0.png" group-title="HINDI ENT.", Manoranjan TV
-http://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/40
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MH1 prime" tvg-logo="https://i.imgur.com/PnlSRKC.jpg" group-title="HINDI ENT.", MH1 prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MK Six" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" group-title="HINDI ENT.", MK Six
@@ -414,11 +414,11 @@ http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
-http://stariptv.top:2086/00/00/9541
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony SAB
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", Sony Sab
-http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/36.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54062
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony Sab HD
@@ -1262,7 +1262,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="DOCUMENTARY", FOX Life
 http://103.135.208.14:80/ibox/bd/65
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="DOCUMENTARY", Fox Life
-http://robi.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FYI TV 18" tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="DOCUMENTARY", FYI TV 18
 http://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FYI TV18" tvg-logo="https://s4.gifyu.com/images/image495361b76fa00b2b.png" group-title="DOCUMENTARY", FYI TV18
