@@ -650,13 +650,13 @@ http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
 http://103.135.208.14:80/ibox/bd/40
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold HD
-http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", Star Gold International
 http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold International" tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="HINDI MOVIES", Star Gold International
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/13
 #EXTINF: -1 tvg-name="Star Gold Select HD" group-title="HINDI MOVIES", Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Utv Action" group-title="HINDI MOVIES", Utv Action
