@@ -590,6 +590,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63424
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="HINDI MOVIES", B4U Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV Kadak" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="HINDI MOVIES",BTV Kadak
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="HINDI MOVIES", Bflix Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/35.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BFLIX MOVIES" tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="HINDI MOVIES", BFLIX MOVIES
