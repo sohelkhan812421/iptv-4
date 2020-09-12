@@ -180,7 +180,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="KTV BANGLA IPTV [BD]" tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="BANGLA", KTV BANGLA IPTV [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV [BD]
-http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://aklivetv.com:8080/masranga/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA", MAASRANGA TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madani TV Bangla" tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="BANGLA", Madani TV Bangla
