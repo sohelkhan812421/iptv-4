@@ -91,7 +91,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Channel T1 IPTV [BD]" tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="BANGLA", Channel T1 IPTV [BD]
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="BANGLA", Colors Bangla SD
-http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="BANGLA", Colors Bangla HD
 http://robi.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF: -1 tvg-name="Color Bangla FHD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Color Bangla FHD
