@@ -339,7 +339,7 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63399
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="https://i.imgur.com/RKsiCJ2.jpg" group-title="HINDI ENT.", Big Magic
 http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.", COLORS
-http://103.205.133.14/hls/colors.m3u8
+http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63576
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="HINDI ENT.", Colors HD
