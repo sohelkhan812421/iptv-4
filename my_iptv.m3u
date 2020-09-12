@@ -234,7 +234,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Provashi Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="BANGLA", Provashi Bangla IPTV [BD]
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="R Plus Gold [IN]" tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA", R Plus Gold [IN]
-http://robi.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="R Plus News [IN]" tvg-logo="https://i.imgur.com/w4iXw4C.jpg" group-title="BANGLA", R Plus News [IN]
 http://103.141.66.36/bpk-tv/10078/default/manifest.mpd?=m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RANG IPTV [BD]" tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="BANGLA", RANG IPTV [BD]
