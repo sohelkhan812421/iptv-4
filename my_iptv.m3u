@@ -35,7 +35,8 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BANGLA", ATN News
 http://103.205.133.14/hls/atnnews.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS [BD]" tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA", ATN NEWS [BD]
-http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Azan TV" tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BANGLA", Azan TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla 21 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="BANGLA", Bangla 21 IPTV [BD]
