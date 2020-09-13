@@ -260,7 +260,8 @@ http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SangeetBangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="BANGLA", SangeetBangla
 http://103.205.133.14/hls/sangeetbangla.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV [BD]" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA", Sangsad TV [BD]
-http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Shopno IPTV [BD]" tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="BANGLA", Shopno IPTV [BD]
 http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sobuj Bangla IPTV [BD]" tvg-logo="https://i.imgur.com/A7FuCH7.png" group-title="BANGLA", Sobuj Bangla IPTV [BD]
