@@ -315,7 +315,7 @@ http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63579
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.", & TV HD
@@ -638,7 +638,7 @@ http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/17109
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sameroo" tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", Sameroo
 http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
-http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="HINDI MOVIES", Sony Max HD
@@ -1214,7 +1214,7 @@ http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS", WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET
-http://45.249.187.238:8081/hls/tsl-1.m3u8
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY", Animal Planet Hindi
