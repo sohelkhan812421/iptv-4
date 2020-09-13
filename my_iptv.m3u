@@ -1338,7 +1338,7 @@ http://45.126.83.51/uq2663/h/h01/index.m3u8
 #EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC
 http://103.135.208.14:80/ibox/bd/62
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC HD English" tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="DOCUMENTARY", TLC HD English
-http://robi.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi" tvg-logo="https://i.imgur.com/2oEJ80x.png" group-title="DOCUMENTARY", TLC Hindi
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="DOCUMENTARY", Travel TV
