@@ -741,7 +741,7 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CNBC TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="ENGLISH ENT.", CNBC TV
 http://robi.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="ENGLISH ENT.", Colors Infinity
-http://robi.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/140
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity" tvg-logo="https://i.imgur.com/UolhqwU.png" group-title="ENGLISH ENT.", Colors Infinity
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54155
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.", Comedy Central
@@ -749,7 +749,7 @@ http://robi.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="ENGLISH ENT.", Comedy Central
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/63518
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.", Comedy Central HD
-http://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/89
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.", Comedy Central HD
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54041
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Docu Box HD" tvg-logo="https://s4.gifyu.com/images/imageba417323908a089f.png" group-title="ENGLISH ENT.", Docu Box HD
@@ -1281,7 +1281,7 @@ http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5619
 #EXTINF: -1 tvg-name="History Hindi" tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="DOCUMENTARY", History Hindi
 http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54004
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="History TV HD" tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="DOCUMENTARY", History TV HD
-http://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/83
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="History TV Hindi" tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="DOCUMENTARY", History TV Hindi
 http://103.135.208.14:80/ibox/bd/91
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Home&Living" tvg-logo="https://i.imgur.com/AXlHsla.png" group-title="DOCUMENTARY", Home&Living
