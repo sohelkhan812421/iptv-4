@@ -348,7 +348,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/2
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="HINDI ENT.", COLORS HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/27
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey" tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="HINDI ENT.", Colors Rishtey
-http://robi.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+http://iptv.mirrorace.net/?channelid=279
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="HINDI ENT.", COLORS RISHTEY
 http://103.135.208.14:80/ibox/bd/128
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="HINDI ENT.", Dabaang
@@ -416,7 +416,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.", SONY HD
 http://ccn.anytv.live:8080/sony/track-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", Sony Pal
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
+http://iptv.mirrorace.net/?channelid=474
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY PAL" tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="HINDI ENT.", SONY PAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony SAB" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony SAB
