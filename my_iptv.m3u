@@ -1087,11 +1087,11 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="SPORTS", ESPN
 https://stream.amrbd.com:443/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN" group-title="SPORTS", ESPN
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8
+http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/8581
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="SPORTS", ESPN HD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/110065
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="SPORTS", ESPN2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
+http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/121
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Esport Club" tvg-logo="https://i.imgur.com/r5mrSTk.jpg" group-title="SPORTS", Esport Club
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS", Fight Sports
