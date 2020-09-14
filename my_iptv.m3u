@@ -272,7 +272,7 @@ http://103.205.133.44:1935/live/somoy/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
-http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
+https://load.airtel.tv/sonyaath/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
