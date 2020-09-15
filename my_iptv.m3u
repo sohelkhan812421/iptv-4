@@ -272,7 +272,7 @@ http://103.205.133.44:1935/live/somoy/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV [BD]" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA", SOMOY TV [BD]
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath [IN]
-https://load.airtel.tv/sonyaath/smil:common.smil/chunklist.m3u8
+https://load.airtel.tv/sonyaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Aath HD [IN]" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA", Sony Aath HD [IN]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF: -1 tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA", Star Jalsa HD
@@ -314,7 +314,7 @@ http://103.205.133.44:1935/live/zeebangla/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA", Zee Bangla
 http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvsd/index.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& TV" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & TV
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="& Tv HD" tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="HINDI ENT.", & Tv HD
@@ -426,7 +426,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/VjlrjwQ.jpg" group-title="HINDI ENT.", SONY SAB
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54062
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="HINDI ENT.", Sony Sab HD
-https://load.airtel.tv/sonysab/smil:common.smil/chunklist.m3u8
+https://load.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="https://s4.gifyu.com/images/image48139d60b1c93448.png" group-title="HINDI ENT.", Sony Wah
 http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="HINDI ENT.", SONY WAH
@@ -442,7 +442,7 @@ http://103.135.208.14:80/ibox/bd/50
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="HINDI ENT.", Star Plus
- https://load.airtel.tv/starplus/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+https://load.airtel.tv/starplus/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="HINDI ENT.", Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.", STAR PLUS HD
@@ -687,7 +687,7 @@ http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee BIOSKOP" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="HINDI MOVIES", Zee BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="HINDI MOVIES", Zee Bollywood
-http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="HINDI MOVIES", Zee Bollywood
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/1057
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", Zee Cinema
