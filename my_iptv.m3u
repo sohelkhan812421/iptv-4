@@ -94,7 +94,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF: -1 tvg-name="Color Bangla FHD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Color Bangla FHD
 http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/54232
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD [IN] (1)" tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BANGLA", Colors Bangla HD [IN] (1)
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/108807
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cumilla 24 IPTV [BD]" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" group-title="BANGLA", Cumilla 24 IPTV [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BANGLA", DBC News
